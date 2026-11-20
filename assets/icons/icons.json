@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/boatrental-icon.svg"
+ },
+ "source_md5": "1869ce9e297fc1c610b5932caf34d0e5",
+ "version": "13be6c6c",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "8f7d4ee420428aef28962638095ba512"
+ ],
+ "made": "2026-11-20"
+}

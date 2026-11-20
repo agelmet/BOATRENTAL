@@ -1,0 +1,7 @@
+{
+  "name": "boatrental",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Boat Rental Chania — site + phone panel for cruises and destinations (Netlify Functions + Blobs, edits never deploy)",
+  "dependencies": { "@netlify/blobs": "^11.0.3" }
+}
